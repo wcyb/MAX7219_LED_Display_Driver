@@ -9,5 +9,6 @@ Known issues:
 
 Important things:
 * You should not display 3 or less digits, due to excessive power dissipation in this case. If you need to do this, then change Rset resistor on module to lower current for all segments.
+* You can add pull-down resistors if needed.
 
 ### Only for non-commercial use.
